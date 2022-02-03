@@ -39,5 +39,5 @@ class ornek:
         raise TypeError('Hata çıktıısıı')
 
 if __name__ == '__main__':
-    nesne = ornek()
-    nesne.hata_yazdir()
+    nesne = emre()
+    emre.zincir4(nesne)

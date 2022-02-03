@@ -1,7 +1,8 @@
 if __name__ == '__main__':
-    print('hello word')
+    a = input('İsminizi giriniz : ')
+    print('hello word : ' + str(a))
 
 def printHelloWord():
-    print('hello word 11')
+    print('hello word  lesson 1 dosyasının içindeyiz')
 
 printHelloWord()
